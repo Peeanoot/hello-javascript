@@ -15,6 +15,7 @@ en varias líneas
 console.log("¡Hola, JavaScript!")
 console.log('¡Hola, JavaScript!')
 console.log(`¡Hola, JavaScript!`)
+console.log(`¡Hola, Amiwo!`)
 
 // console.log("¡Hola, JavaScript!")
 
